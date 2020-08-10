@@ -1,0 +1,3 @@
+a="i am a genius"
+for x in range(1;13)
+ print(a[x])
