@@ -1,1 +1,2 @@
-print('Yes, let's start');
+print('Yes, let's start')
+print('A')
